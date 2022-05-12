@@ -13,9 +13,15 @@ This website's purpose is to help spread awarness, and the cause about the envir
 These applications I found and researched are reliable and safe to use:
 - Ecosia 
 - Ocean Hero
--  
+- Good Guide
+- Oroeco 
+- Geco Air 
+- IRecycle 
+- Earth Hero
+- Forest 
+- JouleBug 
 
-### Find programs that participate in helping then environment 
+### Find programs that participate in helping the environment 
 
 ### Conserve water and electricity usage 
 
@@ -35,4 +41,6 @@ These applications I found and researched are reliable and safe to use:
 
 ### And lastly consume less on disposable products 
 
-## A quick motivation for you!!!
+## Something to motivate you!
+
+
