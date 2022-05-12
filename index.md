@@ -26,8 +26,6 @@ Forest is a famous productivity tool that helps individuals overcome their smart
 #### - JouleBug 
 JouleBug is a simple method to make your everyday routines at home, work, and play more sustainable. With this freshly developed software, learn how you and your friends may use resources without depleting them. JouleBug groups sustainability tips into Actions, which you can Buzz in the app once you've completed them in real life.
 
-### Shop second hand
-
 ### Conserve water and electricity usage 
 
 ### Spread awareness about the situation 
@@ -40,11 +38,12 @@ Helping plant trees so we can help end deforestation and make our area more live
 ### Donate if you can
 The involvement of non-governmental organizations (NGOs) in biodiversity protection is crucial. Because the bulk of these organizations relies on public donations to sustain their operations, fundraising performance is a factor in conservation outcomes. You can also donate anything you don't use. For example, donating your clothing will help keep landfills from expanding and usable materials from being discarded. Many mass-produced clothing lines have fibers that will never break down, no matter how long they are worn.
 
-### Buy eco-friendly products and local producers
+### Buy eco-friendly products 
+An environmentally friendly product is less detrimental to the environment than its conventional competitors. More people purchasing eco-friendly items would reduce pollution, give our planet a chance to breathe and rejuvenate, and make our families and communities healthier in the long run. Furthermore, eco-friendly items are not only good for the environment but also for human health.
+
+### Support local producers and businesses 
 
 ### Delete unwanted emails  
 Every email sent and received consumes electricity. This is utilized to run the computer, server, and routers, as well as to build the equipment. Coal, oil, and gas are burned in fossil fuel power plants to generate this electricity. If we removed 500 unread emails (assuming they're not crucial emails), we'd save 175 grams of CO2, assuming each email contributes 0.3 grams of CO2. Electricity is produced by fossil fuels, as we all know. Instead of saving every email you receive, try deleting the ones you don't need. You'll clear up space and avoid paying to store inactive emails. If an email is essential, filing it away in a folder or label will make it easier to locate later.
 
 ## Something to motivate you!
-
-
