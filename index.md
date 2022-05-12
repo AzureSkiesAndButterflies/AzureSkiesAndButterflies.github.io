@@ -6,7 +6,9 @@ This website's purpose's to help spread awareness and the cause of the environme
 
 ## List of ways to help
 
-### Reuse, reduce, recycle
+### Reduce, reuse, recycle
+
+Reduce, reuse, and recycle are ways of disposing of waste and protecting the environment. First, we must reduce the amount of waste we make. Think thoroughly about purchasing any product you need or want to avoid having excess that'll be a waste. Second, reuse items and products that we can use more than once, unlike one-use products. Avoid using plastic and paper utensils for eating use, reusable utensils. And lastly, recycling the products you use rather than throwing them away would be a waste. Fix something rather than replacing it, sort out which products you use that are non-recyclable and recyclable, avoid shredding paper, and keep recyclable products clean.
 
 ### Download and use apps that help the environment 
 
@@ -26,9 +28,6 @@ Ecosia is a search engine app
 
 ### Conserve water and electricity usage 
 
-#### - Conserving water
-#### - Conserving electricity
-
 ### Spread awareness about the situation 
 
 ### Change to a new renewable energy source 
@@ -39,11 +38,7 @@ Ecosia is a search engine app
 
 ### Buy eco-friendly products and local producers
 
-### Delete unwanted emails 
-
-### Clean and properly recycle your trash
-
-### And, lastly, consume less on disposable products 
+### Delete unwanted emails  
 
 ## Something to motivate you!
 
