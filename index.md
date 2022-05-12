@@ -27,10 +27,40 @@ Forest is a famous productivity tool that helps individuals overcome their smart
 JouleBug is a simple method to make your everyday routines at home, work, and play more sustainable. With this freshly developed software, learn how you and your friends may use resources without depleting them. JouleBug groups sustainability tips into Actions, which you can Buzz in the app once you've completed them in real life.
 
 ### Conserve water and electricity usage 
+#### - Conserving water usage 
 
-### Spread awareness about the situation 
+#### - Conserving electrical usage
+
+
+### Spread awareness about the situation
+#### - Make a video and upload it to social media
+What type of video?
+##### - Commentary 
+##### - PSA (Public Service Announcement)
+##### - Short Film 
+#### - Making a poster and posting it on social media
+Where to make a poster?
+##### - Canva
+##### - Visme
+##### - Adobe Spark
+##### - Design Wizard
+##### - Easil
+##### - Snappa
+##### - Crello
+##### - Stencil
+##### - PicMonkey
+#### - Telling family, friends, and anybody you know
+#### - Making a website and sharing it
 
 ### Change to a new renewable energy source 
+We must change to renewable energy because using fossil fuels to generate energy that produces no greenhouse gas emissions. And lowers some types of air pollution, increases energy diversity, and minimizes reliance on imported fuels. Manufacturing, installation, and other industries are creating economic development and jobs. Solar energy from the sun. Geothermal energy from the heat inside the earth, wind energy, biomass from plants, and hydropower from flowing water are examples of renewable energy sources we should use.
+#### - Geothermal Energy
+
+#### - 
+
+####
+
+####
 
 ### Help plant trees around where you live
 Helping plant trees so we can help end deforestation and make our area more lively. They also assist in the soil capture and store carbon. Despite not doing such an incredible job as oceans do, they absorb around 90% of all carbon emissions and then suffer the impacts of ocean acidification. And trees are significant to help stop climate change. Photosynthesis is when trees collect carbon dioxide from the atmosphere and store it in their wood. Trees and plants will store this carbon dioxide and reduce the amount of gas building up in our atmosphere, rapidly making our planet warmer.
@@ -42,6 +72,7 @@ The involvement of non-governmental organizations (NGOs) in biodiversity protect
 An environmentally friendly product is less detrimental to the environment than its conventional competitors. More people purchasing eco-friendly items would reduce pollution, give our planet a chance to breathe and rejuvenate, and make our families and communities healthier in the long run. Furthermore, eco-friendly items are not only good for the environment but also for human health.
 
 ### Support local producers and businesses 
+Locally held enterprises are more likely to buy their products locally, reducing the need for transportation and outsourcing. They usually take up less area, are closer to homes, and produce less traffic and pollution. Buying from local farmers assists local farmers and suppliers in expanding their operations. Because all of my components are in need from local farms, it promotes a sustainable food system. We support our community's economy by purchasing food from local farms.
 
 ### Delete unwanted emails  
 Every email sent and received consumes electricity. This is utilized to run the computer, server, and routers, as well as to build the equipment. Coal, oil, and gas are burned in fossil fuel power plants to generate this electricity. If we removed 500 unread emails (assuming they're not crucial emails), we'd save 175 grams of CO2, assuming each email contributes 0.3 grams of CO2. Electricity is produced by fossil fuels, as we all know. Instead of saving every email you receive, try deleting the ones you don't need. You'll clear up space and avoid paying to store inactive emails. If an email is essential, filing it away in a folder or label will make it easier to locate later.
