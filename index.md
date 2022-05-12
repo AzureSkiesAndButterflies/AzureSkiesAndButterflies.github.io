@@ -37,7 +37,8 @@ JouleBug is a simple method to make your everyday routines at home, work, and pl
 ### Help plant trees around where you live
 Helping plant trees so we can help end deforestation and make our area more lively. They also assist in the soil capture and store carbon. Despite not doing such an incredible job as oceans do, they absorb around 90% of all carbon emissions and then suffer the impacts of ocean acidification. And trees are significant to help stop climate change. Photosynthesis is when trees collect carbon dioxide from the atmosphere and store it in their wood. Trees and plants will store this carbon dioxide and reduce the amount of gas building up in our atmosphere, rapidly making our planet warmer.
 
-### Donate to local organizations if you can
+### Donate if you can
+The involvement of non-governmental organizations (NGOs) in biodiversity protection is crucial. Because the bulk of these organizations relies on public donations to sustain their operations, fundraising performance is a factor in conservation outcomes. You can also donate anything you don't use. For example, donating your clothing will help keep landfills from expanding and usable materials from being discarded. Many mass-produced clothing lines have fibers that will never break down, no matter how long they are worn.
 
 ### Buy eco-friendly products and local producers
 
