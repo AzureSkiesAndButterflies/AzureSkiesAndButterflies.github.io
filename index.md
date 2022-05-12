@@ -2,7 +2,7 @@
 
 ## Overview 
 
-This website's purpose is to help spread awarness, and the cause about the environment and it's problems that we've been warned about for decades. Climate change, deforestation, pollution, waste disposal, and many more are supposed to be discussed about since these are real probelms that are irreversible if we don't do something. I assume you might have already saw the news about scientists getting arrested for protesting against authorities about climate change. And I'm here to help by making ways to help our environment.
+This website's purpose's to help spread awareness and the cause of the environment and its problems that we've known about for decades. Climate change, deforestation, pollution, waste disposal, and many more are supposed to we're supposed to discuss. Since these problems that I mentioned are severe if we don't do something about them. And I'm assuming you might have already seen the news about scientists getting arrested for protesting against authorities about climate change. And I'm here to help by making ways to help our environment.
 
 ## List of ways to help
 
@@ -25,11 +25,11 @@ These applications I found and researched are reliable and safe to use:
 
 ### Conserve water and electricity usage 
 
-### Spread awarness about the situation 
+### Spread awareness about the situation 
 
 ### Change to a new renewable energy source 
 
-### Help plant trees around on where you live
+### Help plant trees around where you live
 
 ### Donate to local organizations if you can
 
@@ -37,9 +37,9 @@ These applications I found and researched are reliable and safe to use:
 
 ### Delete unwanted emails 
 
-### Clean and properly recycle trash
+### Clean and properly recycle your trash
 
-### And lastly consume less on disposable products 
+### And, lastly, consume less on disposable products 
 
 ## Something to motivate you!
 
