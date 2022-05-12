@@ -26,7 +26,7 @@ Forest is a famous productivity tool that helps individuals overcome their smart
 #### - JouleBug 
 JouleBug is a simple method to make your everyday routines at home, work, and play more sustainable. With this freshly developed software, learn how you and your friends may use resources without depleting them. JouleBug groups sustainability tips into Actions, which you can Buzz in the app once you've completed them in real life.
 
-### Find programs that participate in helping the environment 
+### Shop second hand
 
 ### Conserve water and electricity usage 
 
@@ -43,6 +43,7 @@ The involvement of non-governmental organizations (NGOs) in biodiversity protect
 ### Buy eco-friendly products and local producers
 
 ### Delete unwanted emails  
+Every email sent and received consumes electricity. This is utilized to run the computer, server, and routers, as well as to build the equipment. Coal, oil, and gas are burned in fossil fuel power plants to generate this electricity. If we removed 500 unread emails (assuming they're not crucial emails), we'd save 175 grams of CO2, assuming each email contributes 0.3 grams of CO2. Electricity is produced by fossil fuels, as we all know. Instead of saving every email you receive, try deleting the ones you don't need. You'll clear up space and avoid paying to store inactive emails. If an email is essential, filing it away in a folder or label will make it easier to locate later.
 
 ## Something to motivate you!
 
