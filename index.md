@@ -96,4 +96,4 @@ Every email sent and received consumes electricity. This is utilized to run the 
 
 ## Something to motivate you!
 I know that these are a lot but do as much as you can, and I'm not pressuring you to do all of it. Even the littlest things can help the environment. And as long as we can do it together and help each other, we can help spread the cause. Let's help save our environment together for the better and our home planet.
-♥
+♥ 
