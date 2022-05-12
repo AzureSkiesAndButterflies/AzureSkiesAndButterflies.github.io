@@ -11,20 +11,23 @@ This website's purpose's to help spread awareness and the cause of the environme
 ### Download and use apps that help the environment 
 
 These applications I found and researched are reliable and safe to use:
-- Ecosia 
+#### - Ecosia 
 Ecosia is a search engine app
-- Ocean Hero
-- Good Guide
-- Oroeco 
-- Geco Air 
-- IRecycle 
-- Earth Hero
-- Forest 
-- JouleBug 
+#### - Ocean Hero
+#### - Good Guide
+#### - Oroeco 
+#### - Geco Air 
+#### - IRecycle 
+#### - Earth Hero
+#### - Forest 
+#### - JouleBug 
 
 ### Find programs that participate in helping the environment 
 
 ### Conserve water and electricity usage 
+
+#### - Conserving water
+#### - Conserving electricity
 
 ### Spread awareness about the situation 
 
