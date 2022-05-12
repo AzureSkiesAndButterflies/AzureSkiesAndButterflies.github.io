@@ -12,6 +12,7 @@ This website's purpose's to help spread awareness and the cause of the environme
 
 These applications I found and researched are reliable and safe to use:
 - Ecosia 
+Ecosia is a search engine app
 - Ocean Hero
 - Good Guide
 - Oroeco 
